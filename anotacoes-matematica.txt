@@ -1,0 +1,8 @@
+Anotações da aula de matemática
+
+x = 1
+y = 4
+
+x + y = 5
+
+x / y = 0.25

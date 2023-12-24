@@ -1,0 +1,10 @@
+Anotações da aula de física
+
+f = m*a
+
+f = 50 [N]
+m = 2 [kg]
+
+a = 50/2 [N/kg]
+
+a = 25 [m/s²]
