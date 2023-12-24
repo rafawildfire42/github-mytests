@@ -1,5 +1,6 @@
 Anotações da aula de matemática
 
+Exemplo 1:
 x = 1
 y = 4
 
