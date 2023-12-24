@@ -2,6 +2,4 @@ testando
 
 texto pelo linux
 
-v2.0
-
-commit corrigindo
+versao 1.0
